@@ -1,6 +1,6 @@
 # onboard
 
-A new Flutter project.
+Ứng dụng UTH SmartTasks.
 
 ## Getting Started
 
